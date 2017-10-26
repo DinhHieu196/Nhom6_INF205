@@ -93,7 +93,7 @@
 
 		</aside>
 
-		<div id="fh5co-main">
+		<div id="fh5co-main" style="background-color:orange" >
 
 			<div class="fh5co-narrow-content">
 				<div class="row">
