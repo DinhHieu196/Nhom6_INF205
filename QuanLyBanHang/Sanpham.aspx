@@ -82,7 +82,7 @@
 				</ul>
 			</nav>
 
-			<div class="fh5co-footer">
+			<div class="fh5co-footer" >
 				<p><small>&copy; FPT Polytechnic - 2017</span> <span>Designed by Group 6 - INF205 </span> </small></p>
 				<ul>
 					<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
@@ -93,9 +93,9 @@
 
 		</aside>
 
-		<div id="fh5co-main">
+		<div id="fh5co-main" style="background-color:#b41ee8;">
 
-			<div class="fh5co-narrow-content" style="background-color:aqua">
+			<div class="fh5co-narrow-content">
 				<div class="row">
 					<div class="col-md-5">
 						<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">Sản phẩm</span></h2>
