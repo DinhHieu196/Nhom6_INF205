@@ -95,7 +95,7 @@
 
 		<div id="fh5co-main">
 
-			<div class="fh5co-narrow-content">
+			<div class="fh5co-narrow-content" style="background-color:yellow">
 				<div class="row">
 					<div class="col-md-5">
 						<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft">Khách hàng</span></h2>
