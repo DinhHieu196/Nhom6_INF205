@@ -67,7 +67,7 @@
 	</head>
 	<body>
 
-	<div id="fh5co-page">
+	<div id="fh5co-page style ="background-color = #4534;">
 
 		<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle"><i></i></a>
 		<aside id="fh5co-aside" role="complementary" class="border">
@@ -93,7 +93,7 @@
 
 		</aside>
 
-		<div id="fh5co-main">
+		<div id="fh5co-main" style ="background-color= #3c763d;">
 
 			<div class="fh5co-narrow-content">
 				<div class="row">
